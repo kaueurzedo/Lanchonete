@@ -1,0 +1,8 @@
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.SuggestedBindingRedirects.cache
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\kauan\Pictures\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
